@@ -41,25 +41,6 @@
 
 <br>
 
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RhizkyDwiMertani&label=Public%20Repos&query=$.public_repos&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/RhizkyDwiMertani?affiliations=OWNER&style=for-the-badge&color=0e75b6&label=Total%20Stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RhizkyDwiMertani&label=Followers&query=$.followers&color=0e75b6&style=for-the-badge" />
-</p>
-
-<br>
-
-## 🐍 Contribution Graph
-
-<img src="https://raw.githubusercontent.com/RhizkyDwiMertani/RhizkyDwiMertani/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
-
-<sub>Generated automatically every day — see the workflow below for setup.</sub>
-
-<br>
-<br>
-
 ## 🚀 Featured Projects
 
 <table>
@@ -111,6 +92,6 @@
 
 <div align="center">
 
-*This profile updates itself — the snake redraws daily, activity refreshes daily, and stats badges are always live.*
+*Recent activity below refreshes automatically every day via GitHub Actions.*
 
 </div>
