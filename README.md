@@ -29,17 +29,22 @@
 
 ### 📈 GitHub Stats *(auto-updates every time this page loads)*
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RhizkyDwiMertani&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhizkyDwiMertani&layout=compact&hide_border=true" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RhizkyDwiMertani&label=Public%20Repos&query=$.public_repos&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/stars/RhizkyDwiMertani?affiliations=OWNER&style=flat&color=0e75b6&label=Total%20Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RhizkyDwiMertani&label=Followers&query=$.followers&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RhizkyDwiMertani&hide_border=true" alt="streak stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RhizkyDwiMertani&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+### 🚀 Featured Projects
+| Project | Description |
+|---|---|
+| [Predictive Analysis of Credit Risk](https://github.com/RhizkyDwiMertani/Predictive-Analysis-of-Credit-Risk-Using-Client-Classification) | Client classification model for credit risk prediction |
+| [HomeCreditIDN Scoring](https://github.com/RhizkyDwiMertani/HomeCreditIDNScoring) | Credit scoring analysis |
+| [Cassava Disease Classification](https://github.com/RhizkyDwiMertani/Cassava-Disease-Classification-SVM-GoogleNet) | Image classification using SVM & GoogleNet |
+| [Heart Disease EDA](https://github.com/RhizkyDwiMertani/Heart-Desease-EDA) | Exploratory data analysis on heart disease data |
+| [Supermarket Product & Pricing Strategy Analysis](https://github.com/RhizkyDwiMertani/Analysis-of-Product-and-Pricing-Sales-Strategies-in-Supermarkets) | Sales & pricing strategy analysis |
+| [Movie Recommendation Chatbot](https://github.com/RhizkyDwiMertani/themoviedb-movie-recomendation-chatbot) | Chatbot built on TheMovieDB API |
 
 ---
 
